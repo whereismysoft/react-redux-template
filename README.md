@@ -5,7 +5,8 @@ plan is:
 - create assets folder with global styles, icons and etc
 - write tests
 - add linting
-- add react storybook (???) https://github.com/storybooks/addon-jsx 
+- add react storybook (???) https://github.com/storybooks/addon-jsx
+- pre commit/ pre push
 
 it contains now: 
 - webpack
