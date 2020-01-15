@@ -7,6 +7,8 @@ plan is:
 - add linting
 - add react storybook (???) https://github.com/storybooks/addon-jsx
 - pre commit/ pre push
+- bundle analizer
+- tree shaking utils (???)
 
 it contains now: 
 - webpack
