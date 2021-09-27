@@ -1,6 +1,6 @@
 plan is:
 - create simple structure
-- setup webpack config
+- setup bundler (parcel/rollup/esbuild)
     - create configs for dev and prod modes
 - create assets folder with global styles, icons and etc
 - write tests
